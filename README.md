@@ -1,6 +1,6 @@
 ### Hi there, I am Rashi Desai 👋
 
-I'm a data analytics and visualization enthusiast with an a work experience from a leading tech startup to a Fortune 100. I grew up reading mythology books in India and .
+I'm a data analytics and visualization enthusiast with an a work experience from a leading tech startup to a Fortune 100. I grew up reading mythology books in India and reading about technology wonders.
 
 <li> 🎓 I am a Graduate Student at the University of Illinois at Chicago and will be graduating May 2021</li>
 <li> 👩🏻‍💻 I currently work with PepsiCo as a Data Science Intern on the Global E-Commerce Team </li>
