@@ -7,7 +7,7 @@ I'm a data analytics and visualization enthusiast with an a work experience from
 <li> 📝 I write a lot! I'm the author of a "Principles of UI and UX Design" book on Amazon.com </li>
 <li> 💻 I am a technology blogger on Medium.com with 5M+ views on my blogs. Exciting, isn't it!? </li>
 <li> 🌱 I’m currently learning about investmenets in stock options (I LOVE stock trading) </li>
-<li> ⚡ Fun fact: I have 2 published patents on my name with the Indian Patents Office & I spend a lot of time trying new restaurants in Chicago </li><br>
+<li> ⚡ Fun fact: I have 2 published patents on my name with the Indian Patents Office & I spend my weekends trying new restaurants in Chicago </li>
 <li> 📫 Reach out to me: <a href="https://www.linkedin.com/in/rashidesai2/">LinkedIn</a> | <a href="rashidesai2424@gmail.com/">Email</a> | <a href="https://twitter.com/rpdesai24">Twitter</a> </li> <br>
 
 I am proficient in Data Analysis and Machine Learning concepts and can demonstrate a background in Python, R, SQL and Tableau. Passionate about promoting data-driven decision making to deliver analytics solutions for business decisions. I've worked in Food & Beverage, Healthcare and Consulting domains with key understanding of business goals and client exposure.
