@@ -4,8 +4,8 @@ I'm a data analytics and visualization enthusiast with an a work experience from
 
 <li> 🎓 I am a Graduate Student at the University of Illinois at Chicago and will be graduating May 2021</li>
 <li> 👩🏻‍💻 I currently work with PepsiCo as a Data Science Intern on the Global E-Commerce Team </li>
-<li> 📝 I write a lot! I'm the author of a "Principles of UI and UX Design" book on Amazon.com </li>
-<li> 💻 I am a technology blogger on Medium.com with 5M+ views on my blogs. Exciting, isn't it!? </li>
+<li> 📝 I write a lot! I'm the author of a "Principles of UI and UX Design" book on Amazon.com. Exciting, isn't it!? </li>
+<li> 💻 I am a technology blogger on Medium.com with 5M+ views on my blogs </li>
 <li> 🌱 I’m currently learning about investmenets in stock options (I LOVE stock trading) </li>
 <li> ⚡ Fun fact: I have 2 published patents with the Indian Patents Office & I spend my weekends trying new restaurants in Chicago </li>
 <li> 📫 Reach out to me: <a href="https://www.linkedin.com/in/rashidesai2/">LinkedIn</a> | <a href="rashidesai2424@gmail.com/">Email</a> | <a href="https://twitter.com/rpdesai24">Twitter</a> </li> <br>
