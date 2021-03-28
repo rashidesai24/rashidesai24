@@ -10,7 +10,7 @@ I'm a data analytics and visualization enthusiast with an a work experience from
 <li> ⚡ Fun fact: I have 2 published patents with the Indian Patents Office & I spend my weekends trying new restaurants in Chicago </li>
 <li> 📫 Reach out to me: <a href="https://www.linkedin.com/in/rashidesai2/">LinkedIn</a> | <a href="https://twitter.com/rpdesai24">Twitter</a> </li> <br>
 
-I am proficient in Data Analysis and Machine Learning concepts and can demonstrate a background in Python, R, SQL and Tableau. Passionate about promoting data-driven decision making to deliver analytics solutions for business decisions. I've worked in Food & Beverage, Healthcare and Consulting domains with key understanding of business goals and client exposure.
+I am proficient in Data Analysis and Machine Learning concepts and can demonstrate a background in Python, R, SQL and Tableau. Passionate about promoting data-driven decision making to deliver analytics solutions for business decisions. I've worked in Food & Beverage, Finance, Healthcare and Consulting domains with key understanding of business goals and client exposure.
 <!--
 **rashidesai24/rashidesai24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
