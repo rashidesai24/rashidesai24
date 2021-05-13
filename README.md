@@ -3,7 +3,7 @@
 I'm a data analytics and visualization enthusiast with an a work experience from a leading tech startup to a Fortune 100. I grew up reading mythology books in India and technology wonders.
 
 <li> 🎓 I am a Graduate Student at the University of Illinois at Chicago, graduating May 2021</li>
-<li> 👩🏻‍💻 I currently work with PepsiCo as a Data Science Intern on the Global E-Commerce Team </li>
+<li> 👩🏻‍💻 I am currently working in the field of Healthcare Analytics </li>
 <li> 💻 I am a technology blogger on Medium.com with 5M+ views on my blogs </li>
 <li> 🌱 I’m currently learning about investments in stock options (I LOVE stock trading) </li>
 <li> ⚡ Fun fact: I have 2 published patents with Indian Patents Office & author of book on Amazon titled "The Principles of UI and UX" </li>
